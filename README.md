@@ -1,4 +1,4 @@
-# Traffic-Jam-Game (= Rush Hour Game)
+# Traffic Jam Game (= Rush Hour Game)
 
 ![ex_screenshot](./image/game1.jpg)
 
